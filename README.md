@@ -42,7 +42,7 @@ Me chamo João Montes, tenho 26 anos e sou natural de São Paulo. Atualmente, cu
     title="C#"
     width="30px" 
     style="margin-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"
+    src = " https: // devicon-website.vercel.app /api/ java / original .svg "
   />
 </div>
 
